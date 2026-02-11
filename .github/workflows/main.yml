@@ -30,7 +30,7 @@ jobs:
           # 必要なパッケージインストール・・・②
           pip install tweepy
           pip install requests
-          pip install google.generativeai == 0.8.6
+          pip install google.generativeai==0.8.6
 
 
           
